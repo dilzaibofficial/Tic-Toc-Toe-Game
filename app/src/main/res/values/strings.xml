@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tik Tok Toe</string>
+    <string name="new_game">New Game</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="zero">0</string>
+    <string name="null_value"></string>
+</resources>
